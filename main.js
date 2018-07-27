@@ -1,13 +1,18 @@
 let myName = prompt('What\'s your name?');
-let myAge = confirm('Are you older than 30');
+let mySchool = prompt('Which high school did you attend?');
+let mySubject = prompt('What was your favorite subject in high school?');
+let myState = confirm('Are you attending college in the area?');
+
+alert('Hey ' + myName + '!' + ' I have heard of ' + mySchool + '. ' + mySubject + ' is a very interesting topic to study. ');
 
 console.log(myName);
 console.log(myAge);
+console.log(mySport);
+console.log(myHobby);
 
-if(myAge) {
+if(myState) {
     console.log('Hello ' + myName + ' I\'m older than 30 too');
 } else {
     console.log('Hello ' + myName + ' you\'re so young!');
 }
 
-alert('Hello World');
