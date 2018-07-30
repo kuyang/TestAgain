@@ -263,14 +263,22 @@ able to.</p>
         <input id="male" type="radio" name="gender" value="m">
             <label for="male">Male</label>
 
-
+<br>
 <fieldset>
     <legend>Contact Me</legend>
     <label>Email:<br><input type="text" name="email" /></label><br>
     <label>Mobile:<br><input type="text" name="mobile" /></label><br>
     <label>Telephone:<br><input type="text" name="telephone" /></label>
 </fieldset>
+<br>
 
+<form action="http://www.example.com/login/" method="post">
+    <label for="username">Usernmae:</label>
+    <input type="text" name="username" required="required" />
+    <label for="password">Password:</label>
+    <input type="password" name="password" required="required" />
+    <input type="submit" value="Submit" />
+</form>
 
 
 
