@@ -13,6 +13,8 @@ h3.vas{
     font-size: 200%;
     color:fuchsia}
 
+h3.sabes{text-indent: 20pxs}
+
 p{color:black}
 
 p.lunch{
@@ -20,7 +22,7 @@ p.lunch{
     text-decoration: underline;
 }
 
-p.chowder{text-align: right;} 
+p.chowder{text-align: right} 
 
 p.paraOne{color:rgb(3, 3, 58)}
 
