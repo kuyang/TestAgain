@@ -15,6 +15,13 @@ h3.vas{
 
 p{color:black}
 
+p.lunch{
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+
+p.chowder{text-align: right;} 
+
 p.paraOne{color:rgb(3, 3, 58)}
 
 p10{color:rgb(202, 5, 15)}
