@@ -13,7 +13,13 @@ h3.vas{
     font-size: 200%;
     color:fuchsia}
 
+/* check below what is up */
+
 h3.sabes{text-indent: 20pxs;}
+
+h1.language:first-letter {font-size:200%;}
+
+/* check above */
 
 p{color:black}
 
