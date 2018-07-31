@@ -15,7 +15,7 @@ h3.vas{
 
 /* check below what is up */
 
-h3.sabes{text-indent: 20pxs;}
+h3.sabes{text-indent: 20pxs}
 
 h1.language:first-letter {font-size:200%;}
 
@@ -40,21 +40,6 @@ legend.legTwo{color:crimson}
     label.labThree{color:darksalmon}
 
 p100{color:brown}
-
-
-input {
-    padding: 6px 12px 6px 12px;
-    border: 1px solid #665544;
-    color: #ffffff;}
-  input.submit:hover {
-    background-color: #665544;}
-  input.submit:active {
-    background-color: chocolate;}
-  input.text {
-    color: #cccccc;}
-  input.text:focus {
-    color: #665544;}
-
 
 /* <style type="text/css"> */
 
