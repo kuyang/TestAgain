@@ -1,3 +1,8 @@
+body{background-color:orangered}
+
+h1.headingOne{color:rgb(189, 255, 8)}
+
+p.paraOne{color:rgb(3, 3, 58)}
 
 p{
     background-color: white;}
