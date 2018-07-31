@@ -1,7 +1,7 @@
 let myName = prompt('What\'s your name?');
 let mySchool = prompt('Which high school did you attend?');
 let mySubject = prompt('What was your favorite subject in high school?');
-let myState = confirm('Are you attending college in the area?');
+let myState = confirm('Will you be working in Montgomery County?');
 
 alert('Hey ' + myName + '!' + ' I have heard of ' + mySchool + '. ' + mySubject + ' is a very interesting topic to study. ');
 
