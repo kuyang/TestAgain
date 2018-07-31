@@ -1,12 +1,12 @@
-body{color:darkcyan}
+body{background-color:darkcyan}
 
 h1.headingOne{color:rgb(189, 255, 8)}
 
 h1{color:red}
-h2{color:gray}
-h3{color:gray}
+h2{color:black}
+h3{color:black}
 
-p{color:gray}
+p{color:black}
 
 p.paraOne{color:rgb(3, 3, 58)}
 
