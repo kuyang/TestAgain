@@ -8,6 +8,11 @@ h1{color:red}
 h2{color:black}
 h3{color:black}
 
+h3.vas{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 200;
+    color:fuchsia}
+
 p{color:black}
 
 p.paraOne{color:rgb(3, 3, 58)}
