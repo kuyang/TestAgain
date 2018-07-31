@@ -1,21 +1,21 @@
-body{background-color:rgb(168, 239, 248)};
+body{background-color:rgb(168, 239, 248)}
 
-h1.headingOne{color:rgb(189, 255, 8)};
+h1.headingOne{color:rgb(189, 255, 8)}
 
-h1{color:red};
+h1{color:red}
 
-p{color:gray};
+p{color:gray}
 
-p.paraOne{color:rgb(3, 3, 58)};
+p.paraOne{color:rgb(3, 3, 58)}
 
-p10{color:rgb(202, 5, 15)};
+p10{color:rgb(202, 5, 15)}
 
-legend.legTwo{color:crimson};
-    label.labOne{color:blueviolet};
-    label.labTwo{color:coral};
-    label.labThree{color:darksalmon};
+legend.legTwo{color:crimson}
+    label.labOne{color:blueviolet}
+    label.labTwo{color:coral}
+    label.labThree{color:darksalmon}
 
-p100{color:brown};
+p100{color:brown}
 
 p{
-    background-color:white};
+    background-color:white}
