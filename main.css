@@ -1,6 +1,6 @@
-body{background-color:deepskyblue}
-
-body {font-family: Georgia, 'Times New Roman', Times, serif}
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color:deepskyblue}
 
 h1.headingOne{color:rgb(189, 255, 8)}
 
@@ -20,3 +20,6 @@ legend.legTwo{color:crimson}
     label.labThree{color:darksalmon}
 
 p100{color:brown}
+
+
+/* <style type="text/css"> */
