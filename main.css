@@ -1,4 +1,4 @@
-body{background-color:rgb(168, 239, 248)}
+body{color:rgb(168, 239, 248)}
 
 h1.headingOne{color:rgb(189, 255, 8)}
 
@@ -17,5 +17,4 @@ legend.legTwo{color:crimson}
 
 p100{color:brown}
 
-p{
-    background-color:white}
+p{background-color:white}
