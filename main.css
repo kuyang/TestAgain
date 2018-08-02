@@ -54,3 +54,8 @@ p100{color:brown}
     font-size: 200%;}
   h2 {
     font-size: 1.3em;} */
+
+p.hihi{
+    border: 5px solid #cccccc; padding: 20px;
+    width: 275px;
+    text-align: center; border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px;}
