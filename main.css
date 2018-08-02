@@ -28,7 +28,8 @@ p.lunch{
     text-decoration: underline;
 }
 
-p.chowder{text-align: right} 
+/* For some reason, it is not working */
+/* p.chowder{text-align: right}  */
 
 p.codingClass{border-width: thick;}
 
