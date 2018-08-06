@@ -8,7 +8,7 @@ let myWake = confirm('Do you wake up early?');
 let mySleep = confirm('Do you sleep late?');
 
 alert('Hey ' + myName + '!' + ' I have heard of ' + mySchool + '. ' + mySubject + ' is a very interesting topic to study. ' 
-        + 'I always wanted to watch ' + myMovies + '. ');
+        + 'I have always wanted to watch ' + myMovies + '. ');
 
 console.log(myName);
 console.log(mySchool);
