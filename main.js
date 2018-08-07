@@ -1,7 +1,7 @@
-let captchaArray = ['How many days are there in a week? (Spell it out)', 'How many months are there in a year? (Spell it out)', 'Who was the first president of the United States? (First and Last Name)']
+let captchaArray = ['How many days are there in a week? (Spell it out and all lowercase)', 'How many months are there in a year? (Spell it out and all lowercase)', 'Who was the first president of the United States? (First and Last Name and all lowercase)']
 
 function captchaFunction(){
-    let correctAnswer = ['Seven', 'Twelve', 'George Washington']
+    let correctAnswer = ['seven', 'twelve', 'george washington']
     for(let i = 0; i<captchaArray.length; i++){
         let result = prompt(captchaArray[i]);
         if(correctAnswer[i] !== result) {
