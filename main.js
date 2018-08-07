@@ -7,14 +7,14 @@ function captchaFunction(){
         if(correctAnswer[i] !== result) {
             alert('Sorry Robot');
             return
+    
+function Exit(){
+    return;
+    }
         }
         
     }
     alert('Hello Human');
-
-    function Exit(){
-        return;
-        }
 }
 
 captchaFunction()
