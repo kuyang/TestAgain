@@ -6,8 +6,9 @@ function captchaFunction(){
         let result = prompt(captchaArray[i]);
         if(correctAnswer[i] !== result) {
             alert('Sorry Robot');
-            return
+            return false;
         }
+        
     }
     alert('Hello Human');
 }
