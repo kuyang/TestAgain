@@ -1,0 +1,58 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color:deepskyblue}
+
+h1.headingOne{color:rgb(189, 255, 8)}
+
+h1{color:red}
+h2{color:black}
+h3{color:black}
+
+h3.vas{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 200%;
+    color:fuchsia}
+
+/* check below what is up */
+
+h3.sabes{text-indent: 20pxs}
+
+h1.language:first-letter {font-size:200%;}
+
+/* check above */
+
+p{color:black}
+
+p.lunch{
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+
+/* For some reason, it is not working */
+/* p.chowder{text-align: right}  */
+
+p.codingClass{border-width: thick;}
+
+p.paraOne{color:rgb(3, 3, 58)}
+
+p10{color:rgb(202, 5, 15)}
+
+legend.legTwo{color:crimson}
+    label.labOne{color:blueviolet}
+    label.labTwo{color:coral}
+    label.labThree{color:darksalmon}
+
+p100{color:brown}
+
+
+/* <style type="text/css"> */
+
+/* body {
+    font-family: Arial, Verdana, sans-serif;
+    font-size: 12px;}
+  h1 {
+    font-size: 200%;}
+  h2 {
+    font-size: 1.3em;} */
+
+
