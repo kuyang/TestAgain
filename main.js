@@ -24,6 +24,7 @@ let myState = confirm('Will you be working in Montgomery County?');
 let myMusic = confirm('Have you heard of Drake?');
 let myWake = confirm('Do you wake up early?');
 let mySleep = confirm('Do you sleep late?');
+//addinging gum question by greg//
 let myGum = prompt('What/s your favorite gum?');
 
 alert('Hey ' + myName + '!' + ' I have heard of ' + mySchool + '. ' + mySubject + ' is a very interesting topic to study. ' 
