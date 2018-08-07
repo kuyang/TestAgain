@@ -6,11 +6,15 @@ function captchaFunction(){
         let result = prompt(captchaArray[i]);
         if(correctAnswer[i] !== result) {
             alert('Sorry Robot');
-            return false;
+            return
         }
         
     }
     alert('Hello Human');
+
+    function Exit(){
+        return;
+        }
 }
 
 captchaFunction()
