@@ -1,3 +1,21 @@
+let captchaArray = ['How many days are there in a week? (Spell it out)', 'How many months are there in a year?', 'Who was the first president of the United States?']
+
+function captchaFunction(){
+    let correctAnswer = ['Seven', 'Twelve', 'George Washington']
+    for(let i = 0; i<captchaArray.length; i++){
+        let result = prompt(captchaArray[i]);
+        if(correctAnswer[i] !== result) {
+            alert('Sorry Robot');
+            return
+        }
+    }
+    alert('Hello Human');
+}
+
+captchaFunction()
+
+
+
 let myName = prompt('What\'s your name?');
 let mySchool = prompt('Which high school did you attend?');
 let mySubject = prompt('What was your favorite subject in high school?');
@@ -26,16 +44,3 @@ if(myState) {
 }
 
 
-let captchArray = ['How many days are there in a week?', 'How many months are there in a year?', 'Who was the first president of the United States?']
-
-function captchaFunction(){
-    let correctAnswer = ['Seven', 'Twelve', 'George Washington']
-    for(let i = 0; i<captchaArray.length; i++){
-        let result = prompt(captchaArray[i]);
-        if(correctAnswer[i] !== result) {
-            alert('Sorry Robot');
-            return
-        }
-    }
-    alert('Hello Human');
-}

@@ -1,4 +1,4 @@
-let captchArray = ['How many days are there in a week?', 'How many months are there in a year?', 'Who was the first president of the United States?']
+let captchaArray = ['How many days are there in a week? (Spell it out)', 'How many months are there in a year?', 'Who was the first president of the United States?']
 
 function captchaFunction(){
     let correctAnswer = ['Seven', 'Twelve', 'George Washington']
@@ -11,3 +11,5 @@ function captchaFunction(){
     }
     alert('Hello Human');
 }
+
+captchaFunction()
