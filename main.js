@@ -25,7 +25,7 @@ let myMusic = confirm('Have you heard of Drake?');
 let myWake = confirm('Do you wake up early?');
 let mySleep = confirm('Do you sleep late?');
 
-//addinging gum question by greg//
+//addinging gum question by Greg//
 let myGum = prompt('What/s your favorite gum?');
 
 alert('Hey ' + myName + '!' + ' I have heard of ' + mySchool + '. ' + mySubject + ' is a very interesting topic to study. ' 
